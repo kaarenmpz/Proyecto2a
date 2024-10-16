@@ -1,0 +1,45 @@
+<HTML>
+
+   <HEAD> <TITLE> ANUNCIO.HTML </TITLE>   </HEAD>
+
+
+     <BODY BGCOLOR="PINK">
+            <CENTER> <FONT color="white" size=20 face="ARIAL">  PRESENTACIÓN LIC. KAREN MORALES PIÑA  </FONT>  </CENTER>
+        <P> <FONT face="Arial Black" size=10 color="White" > MERCADÓLOGA Y ADMINISTRADORA FINANCIERA ENFOCADA EN LA INDUSTRIA MUSICAL. </FONT>
+
+</P>
+<STRONG>  
+<MARQUEE bgcolor="#497655" scrollamount="12" > <FONT face="Arial black" size=6 color="white" face="New times roman" > ANALIZA TU MERCADO, ENFOCÁTE EN TU PÚBLICO, CREA LAS MEJORES EXPERIENCIAS PARA ELLOS Y DISFRUTA DEL CRECIMIENTO DE TU MARCA  </FONT> </MARQUEE>
+</STRONG>
+
+<CENTER><IMG src="FOTO KAREN.PNG" width=300 height=500 > <br>
+
+</BODY>
+
+<TABLE BORDER=1 BGCOLOR="#5b5e3c">
+<TR> <TD> <DIV style="background-color:blue sky; display: inline-block;" >     
+<FONT color="white" size=5 face="New times roman" >  He tenido experiencias unicas a lo largo de mi experiencia estudiantil y laboral. </FONT>
+</DIV> <br> </TR> </TD>
+
+<TR> <TD>  <DIV style="background-color:blue sky; display: inline-block;" >     
+<FONT color="white" size=5 face="New times roman" >  He trabajado con empresas de cafe, calzado y plomeria en las cuales he demostrado que me esfuerzo al 100% </FONT>
+</DIV> <br> </TR> </TD>
+
+<TR> <TD>  <DIV style="background-color:blue sky; display: inline-block;" >     
+<FONT color="white" size=5 face="New times roman" >  Mis habilidades son: buena comunicación, resolución de problemas, dominio del paquete de office, uso de Adoble en casi su totalidad. </FONT>
+</DIV> <br> </TR> </TD>
+
+</TABLE>
+
+ </CENTER>
+
+
+<A href="index.html"> 
+<IMG src="Back.gif" width=120 height=90 align="right"> 
+</A>
+
+<A href="https://www.instagram.com/kaarenmpz/profilecard/?igsh=ZDBmZ205ZzJvbm5k"> 
+<IMG src="qr.jpg" width=80  height=90 align=" left">
+</A>
+
+</HTML>
